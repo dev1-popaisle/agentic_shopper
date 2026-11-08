@@ -1,0 +1,17 @@
+.DS_Store
+.venv/
+.python/
+.tools/
+.uv-cache/
+__pycache__/
+*.py[cod]
+.env
+.env.*
+*.pem
+*.key
+/Config/*
+!/Config/default_discount.json
+/video1.mov
+/video2.mp4
+/combined_video.mp4
+/coca_cola_a2a_demo.mp4
